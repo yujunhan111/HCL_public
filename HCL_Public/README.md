@@ -1,6 +1,6 @@
 # HCL: Hierarchical Contrastive Learning for Multimodal Data
 
-This repository contains the code for **Hierarchical Contrastive Learning (HCL)**, a multimodal fusion framework for Electronic Health Records. The codebase also includes implementations of 9 baseline fusion methods (ConVIRT, MISA, DLF, TSD, SLIDE, HNN, JIVE, sJIVE, MMFL) under the same pipeline for reproducibility.
+This repository contains the code for **Hierarchical Contrastive Learning (HCL)**, a multimodal fusion framework. The codebase also includes implementations of 9 baseline fusion methods (ConVIRT, MISA, DLF, TSD, SLIDE, HNN, JIVE, sJIVE, MMFL) under the same pipeline for reproducibility.
 
 ## Architecture
 
